@@ -4,7 +4,7 @@
 ====
 **TL;DR**
 
-* **Fluid**  
+* **Fluid - Color must be verified**  
 ** 722.9 (red): MB 236.14 / ATF 134  
 *** Aproximately 2003 to mid-2010.
 ** 722.9 Plus (blue): MB 236.15 / ATF 134 FE  
@@ -16,7 +16,7 @@
 ** V2 (early): white overflow tube → filter A 221 277 01 98  
 ** V3 (late): green overflow tube → filter A 222 277 20 00  
 * **Upgrade**  
-** Consider replacing old‐style pans with V3; follow the Version 3 parts list in that case.  
+** Consider replacing old‐style pans with V3; follow the Version 3 parts list and add the v3 pan (A 222 270 05 12).  
 * Inspect your pan in‑person; verify the tube, filter, and plugs if possible before ordering parts.  
 ====
 
