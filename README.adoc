@@ -1,1 +1,224 @@
-= DIY 722.9 Transmission Oil and Filter Service
+= DIY 722.9 and 722.9 Plus (A89) Transmission Oil and Filter Service Parts Selection
+
+[NOTE]
+====
+**TL;DR**
+
+* **Fluid**  
+** 722.9 (red): MB 236.14 / ATF 134  
+** 722.9 Plus (blue): MB 236.15 / ATF 134 FE  
+* **Quantity**  
+** 8 L (pan only)  
+** 12 L (including torque converter)  
+* **Pan Version**  
+** V2 (early): white overflow tube → filter A 221 277 01 98  
+** V3 (late): green overflow tube → filter A 222 277 20 00  
+* Inspect your pan in‑person; verify tubes, filters, and plugs before ordering.  
+====
+
+== Introduction & Tribute
+I wanted to pull together the 722.9, and 722.9 Plus service resources available online to make it easier for the DIYers to get the right parts for their car. 
+
+Would like to give credit to the following people:
+
+* https://mbworld.org/forums/members/44044-johnand.html[johnand] for his detailed https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[DIY 722.9 7G‑Tronic transmission service thread]
+* https://mbworld.org/forums/members/540348-6o4o.html[6o4o] for pointing me to https://www.youtube.com/@Mercedessource[Mercedessource’s] https://www.youtube.com/watch?v=801djMVuITU&list=PLtRKk64pu2woRg4wEmmuZkKjTvWv0Av5j[722.9 video series].
+* https://www.youtube.com/@geofus[Geoff Pegg] for his https://www.youtube.com/watch?v=3FPFR4xUCB0[video on 722.9 Plus service].
+
+The combination of which form the foundation of this consolidated write‑up.
+
+[IMPORTANT]
+====
+Please note that this is a guide based on my own research and experience as a DIYer, do not take the following as absolute facts, and verify on your own.
+====
+
+=== Latest version
+This guide will be kept up to date based on feedback at https://github.com/PetterVennberg/722.9-oil-change/tree/main[Github].
+
+== Parts Selection
+There are two things you have to make sure of before ordering the parts needed.
+
+. What type of oil your transmission uses:
+.. 722.9 uses a red oil: MB 236.14, ATF 134.
+.. 722.9 Plus uses a blue oil (sometimes refered to as green): MB 236.15, ATF 134 FE.
+. What oil pan you have on your transmission (it's strongly advised to inspect this manually on your car).
+
+=== Oil type and quantity
+==== Oil type
+There are three ways I would advise you to find out what oil you need:
+
+* Drain a SMALL amount of oil from your transmission to find out if its red or blue.
+* Ask a Mercedes dealer to check what oil is right for your transmission.
+* Use a VIN decoder to find out if your car has the A89 option.
+
+I have experienced situations where independent parts suppliers has recommended the wrong oil and would not trust that they are correct.
+
+==== Oil quantity
+To make sure you don't run out of oil during the procedure you should get enough to be on the safe side:
+
+* 8 liters if not draining the torque converter.
+* 12 liters if draining the torque converter.
+
+=== Oil pan
+What oil pan version you have dictates what filter, overflow tube, and potentially what drain plug and copper washer you need.  
+
+There are three different oil pans that has been used on the 722.9 through out the years. On some cars the pan might have been replaced during a previous service as part of an upgrade, meaning that the filter and overflow tube suggested by Mercedes and other part suppliers might not fit your transmission even if the VIN number is used to find parts.  
+
+==== The different oil pan versions:
+You can reference https://youtu.be/Or9OImaE0UI?si=S5CCRV_WvB9OqrB6[this video by Mercedessource] in order to identify what pan you have.
+
+See further details below.
+
+===== Version 1:
+I have not come across this version but documentation suggests that it exists,  https://mbworld.org/forums/attachments/c-class-w203-3/diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread-365242/oil-pan-overflow-tube-modified-190879d1283185883[see the following reference].
+
+Version 1 requires the following parts (assuming OEM pan):
+[cols="1,6,6"]
+|===
+| Qty. | Description | MB Part #
+
+| 1
+| Transmission Oil Filter
+| Unknown
+
+| 1
+| Transmission Oil Pan Gasket
+| Unknown
+
+| 1
+| Transmission Oil Pan Overflow Tube (black)
+| Unknown
+
+| 1
+| Transmission Oil Pan Drain Plug
+| Unknown
+
+| 1
+| Transmission Oil Pan Drain Plug Seal
+| Unknown
+
+| 6
+| Transmission Oil Pan Stretch Bolts
+| Unknown
+
+| 1
+| Torque Converter Drain Plug
+| There seems to be a few different ones used, check with your MB dealer.
+
+|===
+
+===== Version 2:
+image::Images\EarlyModelPanOutside.jpg[Early model pan image]  
+
+Key characteristics:
+
+* Smaller oil filter stand off dimples compared to version 3.
+* The oil filter stand off dimples are round.
+* Sidewalls are not as tall as version 3.
+
+Refered to as the "old" or "early" pan and filter in the https://youtu.be/Or9OImaE0UI?si=S5CCRV_WvB9OqrB6[video by Mercedessource].  
+
+This is the pan that https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[johnand's post] focuses on.  
+
+Version 2 requires the following parts (assuming OEM pan):
+[cols="1,6,6"]
+|===
+| Qty. | Description | MB Part #
+
+| 1
+| Transmission Oil Filter
+| A 221 277 01 98
+
+| 1
+| Transmission Oil Pan Gasket
+| A 222 271 03 80
+
+| 1
+| Transmission Oil Pan Overflow Tube (white)
+| A 251 271 00 97
+
+| 1
+| Transmission Oil Pan Drain Plug M12
+| N 000908 012009
+
+| 1
+| Transmission Oil Pan Drain Plug Seal M12
+| N 007603 012102
+
+| 6
+| Transmission Oil Pan Stretch Bolts
+| A 004 990 35 12
+
+| 1
+| Torque Converter Drain Plug (add a separate seal if not included)
+| There seems to be a few different ones used, check with your MB dealer.  
+
+A 001 990 11 17 is an example.
+
+| 2 
+| Transmission Oil Pan Magnet.  
+| I have not verified if this pan can fit these magnets, check with MB dealer before using.  
+
+A 000 988 08 52
+
+|===  
+
+
+===== Version 3:
+image::Images\LateModelPanOutside.jpg[Late model pan image]  
+
+Key characteristics:
+
+* Larger oil filter stand off dimples compared to version 2.
+* Two of the oil filter stand off dimples are oval.
+* Sidewalls are taller than version 2.
+
+Refered to as the "new" or "late" pan and filter in the https://youtu.be/Or9OImaE0UI?si=S5CCRV_WvB9OqrB6[video by Mercedessource].  
+
+Version 3 requires the following parts (assuming OEM pan):
+[cols="1,6,6"]
+|===
+| Qty. | Description | MB Part #
+
+| 1
+| Transmission Oil Filter
+| A 222 277 20 00
+
+| 1
+| Transmission Oil Pan Gasket
+| A 222 271 03 80
+
+| 1
+| Transmission Oil Pan Overflow Tube (green)
+| A 222 271 00 97
+
+| 1
+| Transmission Oil Pan Drain Plug M12
+| N 000908 012009
+
+| 1
+| Transmission Oil Pan Drain Plug Seal M12
+| N 007603 012102
+
+| 6
+| Transmission Oil Pan Stretch Bolts
+| A 004 990 35 12
+
+| 1
+| Torque Converter Drain Plug (add a separate seal if not included)
+| There seems to be a few different ones used depending on the year, check with your MB dealer.  
+
+A 001 990 11 17 is an example.
+
+| 2
+| Transmission Oil Pan Magnet
+| A 000 988 08 52
+
+|===
+
+
+== Procedures for performing service
+https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[See the post and related documents that johnand has compiled.] This is a good guide for performing the actual service.
+
+== Closing Thoughts & Invitation for Feedback
+Thanks to johnand, 6o4o, and Geoff Pegg for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers. Please post any questions, corrections, or alternative tips you’ve discovered.
