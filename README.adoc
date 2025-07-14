@@ -5,18 +5,22 @@
 **TL;DR**
 
 * **Fluid**  
-** 722.9 (red): MB 236.14 / ATF 134  
-** 722.9 Plus (blue): MB 236.15 / ATF 134 FE  
+** 722.9 (red): MB 236.14 / ATF 134  
+*** Aproximately 2003 to mid-2010.
+** 722.9 Plus (blue): MB 236.15 / ATF 134 FE  
+*** Aproximately mid-2010 to 2016.
 * **Quantity**  
 ** 8 L (pan only)  
 ** 12 L (including torque converter)  
 * **Pan Version**  
-** V2 (early): white overflow tube → filter A 221 277 01 98  
-** V3 (late): green overflow tube → filter A 222 277 20 00  
-* Inspect your pan in‑person; verify tubes, filters, and plugs before ordering.  
+** V2 (early): white overflow tube → filter A 221 277 01 98  
+** V3 (late): green overflow tube → filter A 222 277 20 00  
+* **Upgrade**  
+** Consider replacing old‐style pans with V3; follow the Version 3 parts list in that case.  
+* Inspect your pan in‑person; verify the tube, filter, and plugs if possible before ordering parts.  
 ====
 
-== Introduction & Tribute
+== Introduction and Tribute
 I wanted to pull together the 722.9, and 722.9 Plus service resources available online to make it easier for the DIYers to get the right parts for their car. 
 
 Would like to give credit to the following people:
@@ -32,7 +36,7 @@ The combination of which form the foundation of this consolidated write‑up.
 Please note that this is a guide based on my own research and experience as a DIYer, do not take the following as absolute facts, and verify on your own.
 ====
 
-=== Latest version
+=== Latest Version
 This guide will be kept up to date based on feedback at https://github.com/PetterVennberg/722.9-oil-change/tree/main[Github].
 
 == Parts Selection
@@ -40,31 +44,33 @@ There are two things you have to make sure of before ordering the parts needed.
 
 . What type of oil your transmission uses:
 .. 722.9 uses a red oil: MB 236.14, ATF 134.
+... Aproximately 2003 to mid-2010.
 .. 722.9 Plus uses a blue oil (sometimes refered to as green): MB 236.15, ATF 134 FE.
+... Aproximately mid-2010 to 2016.
 . What oil pan you have on your transmission (it's strongly advised to inspect this manually on your car).
 
-=== Oil type and quantity
-==== Oil type
+=== Oil Type and Quantity
+==== Oil Type
 There are three ways I would advise you to find out what oil you need:
 
-* Drain a SMALL amount of oil from your transmission to find out if its red or blue.
+* Drain a few drops of oil from your transmission to find out if its red or blue.
 * Ask a Mercedes dealer to check what oil is right for your transmission.
 * Use a VIN decoder to find out if your car has the A89 option.
 
 I have experienced situations where independent parts suppliers has recommended the wrong oil and would not trust that they are correct.
 
-==== Oil quantity
+==== Oil Quantity
 To make sure you don't run out of oil during the procedure you should get enough to be on the safe side:
 
 * 8 liters if not draining the torque converter.
 * 12 liters if draining the torque converter.
 
-=== Oil pan
+=== Oil Pan
 What oil pan version you have dictates what filter, overflow tube, and potentially what drain plug and copper washer you need.  
 
 There are three different oil pans that has been used on the 722.9 through out the years. On some cars the pan might have been replaced during a previous service as part of an upgrade, meaning that the filter and overflow tube suggested by Mercedes and other part suppliers might not fit your transmission even if the VIN number is used to find parts.  
 
-==== The different oil pan versions:
+==== Oil Pan Versions:
 You can reference https://youtu.be/Or9OImaE0UI?si=S5CCRV_WvB9OqrB6[this video by Mercedessource] in order to identify what pan you have.
 
 See further details below.
@@ -216,9 +222,20 @@ A 001 990 11 17 is an example.
 
 |===
 
+=== Oil Pan and Filter Upgrade
+Some recomend that the old style pans should be replaced with version 3. If you want to do this you can follow the parts list under pan version 3 and add the following:
+[cols="1,6,6"]
+|===
+| Qty. | Description | MB Part #
 
-== Procedures for performing service
+| 1
+| Transmission Oil Pan Version 3
+| A 222 270 05 12
+
+|===
+
+== Procedures for Performing Service
 https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[See the post and related documents that johnand has compiled.] This is a good guide for performing the actual service.
 
-== Closing Thoughts & Invitation for Feedback
+== Closing Thoughts and Invitation for Feedback
 Thanks to johnand, 6o4o, and Geoff Pegg for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers. Please post any questions, corrections, or alternative tips you’ve discovered.
