@@ -17,15 +17,15 @@ Please note that this is a guide based on my own research and experience as a DI
 ====
 
 === Latest Version
-This guide will be kept up to date based on feedback on https://github.com/PetterVennberg/722.9-oil-change/tree/main[Github].
+This guide will be kept up to date on https://github.com/PetterVennberg/722.9-oil-change/tree/main[Github], based on any feedback.
 
 == TL;DR
 [NOTE]
 ====
 * **Fluid - Color must be verified**  
-** 722.9: MB 236.14 / ATF 134, red oil
+** 722.9 uses a red oil: MB 236.14 / ATF 134
 *** Aproximately 2003 to mid-2010.
-** 722.9 Plus (A89): MB 236.15 / ATF 134 FE, blue oil
+** 722.9 Plus uses a blue oil (sometimes refered to as green): MB 236.15 / ATF 134 FE
 *** Aproximately mid-2010 to 2016.
 * **Quantity (with safety margins)**  
 ** 8 L (pan only)  
@@ -46,16 +46,17 @@ This guide will be kept up to date based on feedback on https://github.com/Pette
 == Parts Selection
 There are two things you have to make sure of before ordering the parts needed.
 
-. What type of oil your transmission uses:
-.. 722.9 uses a red oil: MB 236.14, ATF 134.
-... Aproximately 2003 to mid-2010.
-.. 722.9 Plus uses a blue oil (sometimes refered to as green): MB 236.15, ATF 134 FE.
-... Aproximately mid-2010 to 2016.
-. What oil pan you have on your transmission.
-.. It's strongly advised to inspect this manually on your car since it might have been upgraded.
+. What type of oil your transmission uses.
+. What oil pan you have on your transmission.  
+
 
 === Oil Type and Quantity
 ==== Oil Type
+. 722.9 uses a red oil: MB 236.14, ATF 134.
+.. Aproximately 2003 to mid-2010.
+. 722.9 Plus uses a blue oil (sometimes refered to as green): MB 236.15, ATF 134 FE.
+.. Aproximately mid-2010 to 2016.
+
 There are three ways I would advise you to find out what oil you need:
 
 * Drain a few drops of oil from your transmission to find out if its red or blue.
