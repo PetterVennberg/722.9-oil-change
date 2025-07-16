@@ -8,6 +8,7 @@ Would like to give credit to the following people:
 * https://mbworld.org/forums/members/44044-johnand.html[johnand] for his detailed https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[DIY 722.9 7G‑Tronic transmission service thread]
 * https://mbworld.org/forums/members/540348-6o4o.html[6o4o] for pointing me to https://www.youtube.com/@Mercedessource[Mercedessource’s] https://www.youtube.com/watch?v=801djMVuITU&list=PLtRKk64pu2woRg4wEmmuZkKjTvWv0Av5j[722.9 video series].
 * https://www.youtube.com/@geofus[Geoff Pegg] for his https://www.youtube.com/watch?v=3FPFR4xUCB0[video on 722.9 Plus service].
+* FCP Euro's https://www.fcpeuro.com/blog/mercedes-7-speed-transmission-service-walkthrough-722.9-transmissions[article] on servicing the 722.9 transmission and the related https://www.youtube.com/watch?v=FQcEutI1SeA&t=601s[video].
 
 The combination of which form the foundation of this consolidated write‑up.
 
@@ -256,6 +257,6 @@ https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-autom
 https://www.youtube.com/watch?v=3FPFR4xUCB0[The video by Geoff Pegg] is also a very good resource.
 
 == Closing Thoughts and Invitation for Feedback
-Thanks to johnand, 6o4o, and Geoff Pegg for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers.
+Thanks to johnand, 6o4o, Geoff Pegg, and FCP Euro for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers.
 
 If you would like to see something changed in the guide please https://github.com/PetterVennberg/722.9-oil-change/issues/new[create an issue on the GitHub page].
