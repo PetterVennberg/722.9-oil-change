@@ -1,27 +1,7 @@
-= DIY 722.9 and 722.9 Plus (A89) Transmission Oil and Filter Service Parts Selection
+= DIY Oil and Filter Service on 722.9 and 722.9 Plus (A89) Transmissions - Parts Selection
 
-[NOTE]
-====
-**TL;DR**
-
-* **Fluid - Color must be verified**  
-** 722.9 (red): MB 236.14 / ATF 134  
-*** Aproximately 2003 to mid-2010.
-** 722.9 Plus (blue): MB 236.15 / ATF 134 FE  
-*** Aproximately mid-2010 to 2016.
-* **Quantity**  
-** 8 L (pan only)  
-** 12 L (including torque converter)  
-* **Pan Version**  
-** V2 (early): white overflow tube → filter A 221 277 01 98  
-** V3 (late): green overflow tube → filter A 222 277 20 00  
-* **Upgrade**  
-** Consider replacing old‐style pans with V3; follow the Version 3 parts list and add the v3 pan (A 222 270 05 12).  
-* Inspect your pan in‑person; verify the tube, filter, and plugs if possible before ordering parts.  
-====
-
-== Introduction and Tribute
-I wanted to pull together the 722.9, and 722.9 Plus service resources available online to make it easier for the DIYers to get the right parts for their car. 
+== Introduction and Shout-Outs
+I’ve compiled online resources for 722.9 and 722.9 Plus services, so DIYers can quickly find the right parts for their cars. 
 
 Would like to give credit to the following people:
 
@@ -37,7 +17,31 @@ Please note that this is a guide based on my own research and experience as a DI
 ====
 
 === Latest Version
-This guide will be kept up to date based on feedback at https://github.com/PetterVennberg/722.9-oil-change/tree/main[Github].
+This guide will be kept up to date based on feedback on https://github.com/PetterVennberg/722.9-oil-change/tree/main[Github].
+
+== TL;DR
+[NOTE]
+====
+* **Fluid - Color must be verified**  
+** 722.9: MB 236.14 / ATF 134, red oil
+*** Aproximately 2003 to mid-2010.
+** 722.9 Plus (A89): MB 236.15 / ATF 134 FE, blue oil
+*** Aproximately mid-2010 to 2016.
+* **Quantity (with safety margins)**  
+** 8 L (pan only)  
+** 12 L (including torque converter)  
+* **Pan Version**  
+** V2 (early):  
+*** Filter: A 221 277 01 98  
+*** Overflow tube, white: A 251 271 00 97
+** V3 (late):
+*** Filter: A 222 277 20 00
+*** Overflow tube, green: A 222 271 00 97
+* **Upgrade**  
+** Consider replacing old‐style pans with V3; follow the Version 3 parts list and add the v3 pan (A 222 270 05 12).  
+* **Before ordering parts**
+** Inspect your pan in‑person, verify the version used. Verify the tube, filter, and drain plugs (pan and torque converter) if possible.  
+====
 
 == Parts Selection
 There are two things you have to make sure of before ordering the parts needed.
@@ -47,30 +51,36 @@ There are two things you have to make sure of before ordering the parts needed.
 ... Aproximately 2003 to mid-2010.
 .. 722.9 Plus uses a blue oil (sometimes refered to as green): MB 236.15, ATF 134 FE.
 ... Aproximately mid-2010 to 2016.
-. What oil pan you have on your transmission (it's strongly advised to inspect this manually on your car).
+. What oil pan you have on your transmission.
+.. It's strongly advised to inspect this manually on your car since it might have been upgraded.
 
 === Oil Type and Quantity
 ==== Oil Type
 There are three ways I would advise you to find out what oil you need:
 
 * Drain a few drops of oil from your transmission to find out if its red or blue.
+** Might be hard to see if the oil is very old.
 * Ask a Mercedes dealer to check what oil is right for your transmission.
+** I have experienced situations where independent parts suppliers has recommended the wrong oil and would not trust that they are correct.
 * Use a VIN decoder to find out if your car has the A89 option.
-
-I have experienced situations where independent parts suppliers has recommended the wrong oil and would not trust that they are correct.
 
 ==== Oil Quantity
 To make sure you don't run out of oil during the procedure you should get enough to be on the safe side:
 
-* 8 liters if not draining the torque converter.
+* 8 liters if only draining the pan.
 * 12 liters if draining the torque converter.
 
-=== Oil Pan
-What oil pan version you have dictates what filter, overflow tube, and potentially what drain plug and copper washer you need.  
+=== Oil Pan 
+What oil pan version you have dictates what filter and overflow tube you need.  
 
 There are three different oil pans that has been used on the 722.9 through out the years. On some cars the pan might have been replaced during a previous service as part of an upgrade, meaning that the filter and overflow tube suggested by Mercedes and other part suppliers might not fit your transmission even if the VIN number is used to find parts.  
 
 ==== Oil Pan Versions:
+[NOTE]
+====
+The use of version 1 through 3 is my own nomenclature, not Mercedes Benz designations.
+====
+
 You can reference https://youtu.be/Or9OImaE0UI?si=S5CCRV_WvB9OqrB6[this video by Mercedessource] in order to identify what pan you have.
 
 See further details below.
@@ -162,7 +172,7 @@ Version 2 requires the following parts (assuming OEM pan):
 A 001 990 11 17 is an example.
 
 | 2 
-| Transmission Oil Pan Magnet.  
+| Transmission Oil Pan Magnet  
 | I have not verified if this pan can fit these magnets, check with MB dealer before using.  
 
 A 000 988 08 52
@@ -234,8 +244,17 @@ Some recomend that the old style pans should be replaced with version 3. If you 
 
 |===
 
+[WARNING]
+====
+The oil must remain the same even if upgrading to the new filter and pan.
+====
+
 == Procedures for Performing Service
 https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[See the post and related documents that johnand has compiled.] This is a good guide for performing the actual service.
 
+https://www.youtube.com/watch?v=3FPFR4xUCB0[The video by Geoff Pegg] is also a very good resource.
+
 == Closing Thoughts and Invitation for Feedback
-Thanks to johnand, 6o4o, and Geoff Pegg for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers. Please post any questions, corrections, or alternative tips you’ve discovered.
+Thanks to johnand, 6o4o, and Geoff Pegg for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers.
+
+If you would like to see something changed in the guide please https://github.com/PetterVennberg/722.9-oil-change/issues/new[create an issue on the GitHub page].
