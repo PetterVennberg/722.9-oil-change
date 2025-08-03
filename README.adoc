@@ -29,7 +29,7 @@ This guide will be kept up to date on https://github.com/PetterVennberg/722.9-oi
 *** Aproximately 2003 to mid-2010.
 ** 722.9 Plus uses: MB 236.15
 *** Color: Blue, green, or blue/green.
-*** Aproximately mid-2010 to 2016.
+*** Aproximately mid-2010 to 2020.
 * **Quantity (with safety margins)**  
 ** 8 Liters (pan only)  
 ** 12 Liters (including torque converter)  
@@ -62,9 +62,9 @@ There are two things you have to make sure of before ordering the parts needed.
 *** Aproximately 2003 to mid-2010.
 ** 722.9 Plus uses: MB 236.15
 *** Color: Blue, green, or blue/green. I have come across different colors for oil with this spec.
-*** Aproximately mid-2010 to 2016.
+*** Aproximately mid-2010 to 2020 (the 9G was introduced mid-2013 and started to replace the 722.9).
 
-**There are three ways I would advise you to find out what oil you need:**
+**There are a few ways I would advise you to find out what oil you need:**
 
 * By year:
 ** Cars pre 2010 are almost garantueed to use MB 236.14 (red)
