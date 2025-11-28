@@ -70,7 +70,7 @@ There are two things you have to make sure of before ordering the parts needed.
 ** Cars pre 2010 are almost garantueed to use MB 236.14 (red)
 ** Cars post 2010 are almost garantueed to use MB 236.15 (blue)
 ** Depending on your situation this might suffice as verification.
-* Drain a few drops of oil from your transmission to find out if its red or blue.
+* Drain a few drops of oil from your transmission to find out if its red or blue/green/blue gren.
 ** Might be hard to see if the oil is very old.
 * Ask a Mercedes dealer to check what oil is right for your transmission.
 ** I have experienced situations where independent parts suppliers has recommended the wrong oil and would not trust that they are correct.
@@ -269,6 +269,10 @@ The oil must remain the same even if upgrading to the new filter and pan.
 https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[See the post and related documents that johnand has compiled.] This is a good guide for performing the actual service.
 
 https://www.youtube.com/watch?v=3FPFR4xUCB0[The video by Geoff Pegg] is also a very good resource.
+
+You can also take a look at the https://github.com/PetterVennberg/722.9-oil-change/tree/main/ReferenceDocs[reference documentation in this GitHub repository] for additional details.
+
+It´s also possible to fill the transmission through the oil cooler lines instead of the fill plug on the transmission. https://mbworld.org/forums/r-class-w251/915950-r350-transmission-flush.html#post9190477[See this post for details.]
 
 == Closing Thoughts and Invitation for Feedback
 Thanks to johnand, 6o4o, Geoff Pegg, Mercedessource, and FCP Euro for laying the groundwork and sharing their insights. I hope this consolidated guide streamlines the 722.9 and 722.9 Plus service process for fellow DIYers.
