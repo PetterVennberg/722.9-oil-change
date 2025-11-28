@@ -266,11 +266,11 @@ The oil must remain the same even if upgrading to the new filter and pan.
 ====
 
 == Procedures for Performing Service
+Take a look at the https://github.com/PetterVennberg/722.9-oil-change/tree/main/ReferenceDocs[reference documentation in this GitHub repository] for details.
+
 https://mbworld.org/forums/c-class-w203/365242-diy-722-9-7g-tronic-7-speed-automatic-transmission-service-thread.html[See the post and related documents that johnand has compiled.] This is a good guide for performing the actual service.
 
 https://www.youtube.com/watch?v=3FPFR4xUCB0[The video by Geoff Pegg] is also a very good resource.
-
-You can also take a look at the https://github.com/PetterVennberg/722.9-oil-change/tree/main/ReferenceDocs[reference documentation in this GitHub repository] for additional details.
 
 It´s also possible to fill the transmission through the oil cooler lines instead of the fill plug on the transmission. https://mbworld.org/forums/r-class-w251/915950-r350-transmission-flush.html#post9190477[See this post for details.]
 
